@@ -1,0 +1,193 @@
+html {
+    font-size: 16px;
+
+}
+
+body {
+    background-color: #FFF8F0;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(85, 32, 109, 1);
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1440px;
+    border:1px solid gray;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+
+}
+
+h1 {
+    font-family: League Spartan;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #190D37;
+}
+
+h2 {
+    font-family: League Spartan;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.big-txt {
+    color: #331E6A;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+
+#hero-section {
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+#hero-txt {
+    width: 50%;
+    padding: 32px 20px 32px 20px;
+}
+
+#hero-img-wrapper {
+    width: 50%;
+    border-radius: 0px 0px 175px 175px;
+    box-shadow: 6px 2px 25px -99px #ff00001a;
+}
+
+#img {
+    width: 100%;
+}
+
+.contact {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 12px;
+    width: 133;
+    height: 20;
+    top: 30px;
+    left: 190px;
+    color: #000000;
+}
+
+#intro {
+    margin-top: 52px;
+    color: #291854;
+}
+
+#button {
+    width: 138px;
+    height: 44px;
+    border-radius: 4px;
+    background-color: #2F2F2F;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin-top: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#sec {
+    max-width: 1440px;
+    margin: 40px auto;
+}
+
+#little {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #2858FF;
+    padding: 8px;
+}
+
+#heading {
+    font-family: League Spartan;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #000000;
+}
+
+#data {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #190D37;
+    padding: 16px;
+
+}
+
+#list {
+    display: flex;
+    max-width: 1060px;
+    margin: 32px 190px;
+}
+
+.li {
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    margin: 0 8px;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+}
+
+.lii {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 4px 20px 20px 20px;
+
+
+
+}
+
+h3 {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+
+#Footer {
+    height: 58px;
+    background-color: #000000;
+    
+}
+#data-fot{
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 22px;
+}
